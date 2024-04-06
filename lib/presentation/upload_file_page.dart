@@ -219,19 +219,6 @@ class _JsonViewerState extends State<JsonViewer> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 _buildJsonTree(widget.json, ''),
-                // SizedBox(height: 20),
-                // ElevatedButton(
-                //   onPressed: () {
-                //     result = generateResultJson();
-                //     print(jsonEncode(result));
-                //     setState(() {
-                //       visible = true;
-                //     });
-                //   },
-                //   child: Text("Generate Result JSON"),
-                // ),
-                // SizedBox(height: 20),
-                // Visibility(child: Text(jsonEncode(result)))
               ],
             ),
           ),
