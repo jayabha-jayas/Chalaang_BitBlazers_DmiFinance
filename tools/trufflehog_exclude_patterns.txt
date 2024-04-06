@@ -1,5 +1,0 @@
-.*\.talismanrc
-.*\.md
-pubspec.yaml
-pubspec_overrides.yaml
-

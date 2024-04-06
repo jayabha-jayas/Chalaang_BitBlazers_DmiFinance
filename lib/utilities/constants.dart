@@ -1,3 +1,0 @@
-const String BASE_URL = "BASE_URL";
-const String CONNECT_TIMEOUT = "CONNECT_TIMEOUT";
-const String RECEIVE_TIMEOUT = "RECEIVE_TIMEOUT";
